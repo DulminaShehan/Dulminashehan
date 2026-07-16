@@ -2,104 +2,151 @@
 
 # Hi 👋, I'm Dulmina Shehan Kulasekara
 
-### Full Stack Developer · Mobile Developer · AI Engineering Enthusiast
+### 💻 Full Stack Developer • 📱 Mobile Developer • 🤖 AI Engineering Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;Applied+AI+Undergraduate;Building+Web%2C+Mobile+%26+IoT+Systems" />
+<p>
+I build modern, scalable web, mobile, and AI-powered applications with a passion for solving real-world problems.
+</p>
 
-<br/>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://github.com/dulminashehan">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Mobile+App+Developer;AI+Engineering+Student;Always+Learning+New+Technologies" />
 
 </div>
 
-<br/>
+---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 Final-year Computer Science undergraduate at **NIBM**, specializing in **Applied AI**
-- 💼 Software Developer at **Vertex Software Company**
-- 🌱 Currently deepening my skills in AI/ML, cloud technologies, and backend architecture (NestJS, TypeORM)
-- 🔭 Actively building projects across **Web, Mobile, IoT, and AI**
-- 🎯 Looking for **Software Developer Internships** (Full-Stack / Mobile / AI) in Sri Lanka
-- 🎨 Background in UI/UX design with **Figma**
-- 💬 Ask me about React, React Native, Node.js, NestJS, Firebase, Spring Boot, or TFLite/CNN models
+- 🎓 Software Engineering Student from **Sri Lanka**
+- 💼 Passionate about **Full Stack, Mobile, AI, and IoT Development**
+- 🌱 Currently learning **Artificial Intelligence, Machine Learning, and Deep Learning**
+- 🚀 Building scalable and user-friendly applications
+- 🤝 Open to collaborating on **Open Source** and **AI Projects**
+- 💬 Ask me about **React, React Native, Node.js, NestJS, Spring Boot, Firebase**
 - 📫 Reach me at **kulasekaradulmina95@gmail.com**
 
-<br/>
+---
 
-## 🚀 Tech Stack
+# 🚀 Current Focus
 
-**Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind" /></p>
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- ☁️ Cloud Computing
+- 📱 Cross-platform Mobile Apps
+- 🌐 Modern Web Applications
 
-**Backend**
-<p><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,java,python" /></p>
+---
 
-**Mobile**
-<p><img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,firebase" /></p>
+# 🛠️ Tech Stack
 
-**Database**
-<p><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase" /></p>
+### Frontend
 
-**AI / ML**
-<p><img src="https://skillicons.dev/icons?i=python,tensorflow" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind" />
+</p>
 
-**Tools & Platforms**
-<p><img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,linux,vscode" /></p>
+### Backend
 
-<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,java,python" />
+</p>
 
-## 🏗️ Featured Projects
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,flutter,firebase,androidstudio" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
+</p>
+
+### AI & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,linux,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 | Project | Description |
-|---|---|
-| 🛒 **MegaMartX** | Multi-vendor e-commerce platform (full-stack) |
-| 🔧 **Hemantha Hardware Store** | Inventory management system for a retail hardware business |
-| 🍃 **Tea Leaf Quality Gradifier** | CNN-based tea leaf grading system using Python & TFLite |
-| 📇 **ANPR / RFID IoT System** | ESP32 + RFID card reader with Supabase integration for scan logging |
-| 🏨 **Booking Platform API** | NestJS + TypeORM + PostgreSQL REST API with JWT auth & Swagger docs |
-| 🔥 **Forest Guardian** | AI & IoT-based forest fire detection system |
-| 🚌 **Smart Bus Route Planner** | Route optimization using graph algorithms |
-| 📱 **EventPulse** | Mobile event management platform |
+|---------|-------------|
+| 🔥 Forest Guardian | AI & IoT based Forest Fire Detection & Monitoring System |
+| 🛒 MegaMartX | Full Stack E-Commerce Platform |
+| 🚌 Smart Bus Route Planner | Route Optimization using Graph Algorithms |
+| 📱 EventPulse | Mobile Event Management Platform |
+| 🖨️ PrintShop Manager | Desktop Billing & Inventory System |
+| 🍃 Tea Leaf Quality Grader | AI-based Tea Leaf Quality Classification |
 
-<br/>
+---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dulminashehan&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulminashehan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dulminashehan&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulminashehan&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulminashehan&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dulminashehan&theme=github-dark-blue&hide_border=true"/>
+
 </p>
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulminashehan&theme=tokyo-night&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dulminashehan&theme=github-dark&hide_border=true"/>
+
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dulminashehan&theme=algolia&margin-w=15&margin-h=15&no-frame=true"/>
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:kulasekaradulmina95@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 </p>
 
-<br/>
+---
 
-## 💡 Quote
+# 💡 Motto
 
-> "First, solve the problem. Then, write the code." — John Johnson
+> **"Code. Learn. Build. Repeat."**
 
-<br/>
+---
 
 <div align="center">
 
-### Thanks for visiting ❤️
+![](https://komarev.com/ghpvc/?username=dulminashehan&label=Profile+Views&color=0e75b6&style=flat)
 
-<img src="https://komarev.com/ghpvc/?username=dulminashehan&label=Profile%20Views&color=00C4FF&style=flat"/>
+### ⭐ Thanks for visiting my profile!
 
 </div>
